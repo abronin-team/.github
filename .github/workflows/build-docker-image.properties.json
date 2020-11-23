@@ -1,0 +1,5 @@
+{
+    "name": "Build and Push Docker Image",
+    "description": "Build Docker Image for dockerized service, tag image with short sha then push to main registry",
+    "iconName": "package"
+}
